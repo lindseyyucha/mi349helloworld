@@ -3,10 +3,9 @@
 body {
     background: #ffff; 
     font-family: Helvetica, sans-seif;
-
+    border-top: 15px solid #424242; 
 }
 
 img{
     width: 100%; 
-    
 }
