@@ -4,6 +4,12 @@ body {
     background: #ffff; 
     font-family: Helvetica, sans-seif;
     border-top: 15px solid #424242; 
+    margin: 0 auto; 
+}
+
+main {
+    margin: 0 auto;
+    width: 800px; 
 }
 
 img{
